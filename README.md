@@ -17,8 +17,9 @@
 - :school:Graduated from ESBA, specializing in Economics and Management
 - :books: My major is **Software Engineer**
 - :earth_asia: I'm living now in **Buenos Aires , Argentina**
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">Skills
 <div class="skills">
-       <h2> Skill</h2>
         <ul><li><span class="icon">💻</span> Programming Languages: Java, PHP</li>
 <li><span class="icon">🌐</span> Web Development: HTML, CSS, JavaScript, Bootstrap</li>
 <li><span class="icon">⚙️</span> Frameworks: Spring Boot</li>
